@@ -11,28 +11,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<table class="table">
-<!--주석: ctrl + shift + /  -->
-	<tr>
-		<th>Lorem.</th>
-		<th>Deleniti.</th>
-		<th>Ea.</th>
-	</tr>
-	<tr>
-		<td>Lorem.</td>
-		<td>Assumenda.</td>
-		<td>Deleniti.</td>
-	</tr>
-	<tr>
-		<td>Lorem.</td>
-		<td>Deleniti.</td>
-		<td>Dolorum.</td>
-	</tr>
-	<tr>
-		<td>Lorem.</td>
-		<td>Quo!</td>
-		<td>Et!</td>
-	</tr>
-</table>		
+
+<button class="btn btn-primary">Lorem.</button>
+
 </body>
 </html>
