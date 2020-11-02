@@ -12,7 +12,20 @@
 </head>
 <body>
 <div class="container">
-	
+ <div class="dropdown">
+  <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+    Select
+  </button>
+  <div class="dropdown-menu">
+  	<div class="dropdown-header">Dessert</div>
+    <a class="dropdown-item" href="#">Icecream</a>
+    <a class="dropdown-item" href="#">Snack</a>
+    <a class="dropdown-item" href="#">Chocolate</a>
+    <div class="dropdown-divider"></div>
+    <div class="dropdown-header">Main Dish</div>
+    <a href="#" class="dropdown-item">Beef</a>
+  </div>
+ </div>
 </div>
 </body>
 </html>
