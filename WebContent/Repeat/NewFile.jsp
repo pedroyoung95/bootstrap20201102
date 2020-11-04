@@ -38,8 +38,8 @@
         <a class="dropdown-item" href="#">Link 3</a>
       </div>
     </li>
-    <form class="form-inline" action="/action_page.php">
-    <input class="form-control mr-sm-2" type="text" placeholder="Search">
+    <form class="form-inline" action="NewFileProcess.jsp">
+    <input class="form-control mr-sm-2" type="text" placeholder="Search" name="search">
     <button class="btn btn-success" type="submit">Search</button>
   </form>
   </ul>
