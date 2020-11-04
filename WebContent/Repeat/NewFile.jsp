@@ -11,6 +11,7 @@
 <title>My first Web</title>
 </head>
 <body>
+<div class="container">
 <nav class="navbar navbar-expand-sm bg-secondary fixed-top">
 <a class="navbar-brand text-white" href="#">Logo</a>
 
@@ -27,7 +28,7 @@
       <a class="nav-link text-white" href="#">Link 3</a>
     </li>
     <!-- Dropdown -->
-    <li class="nav-item dropdown">
+    <li class="nav-item dropdown ">
       <a class="nav-link dropdown-toggle text-white" href="#" id="navbardrop" data-toggle="dropdown">
         Dropdown link
       </a>
@@ -44,5 +45,6 @@
   </ul>
 
 </nav>
+</div>
 </body>
 </html>
